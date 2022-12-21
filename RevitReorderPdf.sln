@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitReorderPdf", "RevitReorderPdf\RevitReorderPdf.csproj", "{29C2A6CE-0778-44F4-BB53-47739A303421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2020 Debug|Any CPU = 2020 Debug|Any CPU
+		2020 Release|Any CPU = 2020 Release|Any CPU
+		2021 Debug|Any CPU = 2021 Debug|Any CPU
+		2021 Release|Any CPU = 2021 Release|Any CPU
+		2022 Debug|Any CPU = 2022 Debug|Any CPU
+		2022 Release|Any CPU = 2022 Release|Any CPU
+		2023 Debug|Any CPU = 2023 Debug|Any CPU
+		2023 Release|Any CPU = 2023 Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2020 Debug|Any CPU.ActiveCfg = 2020 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2020 Debug|Any CPU.Build.0 = 2020 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2020 Release|Any CPU.ActiveCfg = 2020 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2020 Release|Any CPU.Build.0 = 2020 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2021 Debug|Any CPU.ActiveCfg = 2021 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2021 Debug|Any CPU.Build.0 = 2021 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2021 Release|Any CPU.ActiveCfg = 2021 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2021 Release|Any CPU.Build.0 = 2021 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2022 Debug|Any CPU.ActiveCfg = 2022 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2022 Debug|Any CPU.Build.0 = 2022 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2022 Release|Any CPU.ActiveCfg = 2022 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2022 Release|Any CPU.Build.0 = 2022 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2023 Debug|Any CPU.ActiveCfg = 2023 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2023 Debug|Any CPU.Build.0 = 2023 Debug|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2023 Release|Any CPU.ActiveCfg = 2023 Release|Any CPU
+		{29C2A6CE-0778-44F4-BB53-47739A303421}.2023 Release|Any CPU.Build.0 = 2023 Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FDDFCBF-4B12-4300-9CC2-2E4E05F3C4E6}
+	EndGlobalSection
+EndGlobal
